@@ -1,6 +1,6 @@
 - 👋 Hi there, This is Noore Alam Mahin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP
 
 
 
