@@ -1,7 +1,4 @@
-- 👋 Hi there, This is Noore Alam Mahin
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namahin&layout=compact&theme=tokyonight)  
 
 
 <!---
