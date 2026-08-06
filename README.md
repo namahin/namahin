@@ -1,66 +1,106 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Noore+Alam+Mahin;Founder+%40+Pivew;AI+Developer+%7C+Product+Builder+%7C+Researcher;Building+AI%2C+Privacy+Tech+%26+Neurotechnology" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hi,%20I'm%20Noore%20Alam%20Mahin&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Founder%20@%20Pivew%20%7C%20AI%20Developer%20%7C%20Product%20Builder%20%7C%20Researcher&descSize=16&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+
+[![Website](https://img.shields.io/badge/Website-namahin.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://namahin.com)
+[![Email](https://img.shields.io/badge/Email-info%40pivew.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:info@pivew.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@Mahin__360-8b5cf6?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/Mahin_360)
+[![GitHub](https://img.shields.io/badge/GitHub-namahin-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/namahin)
+
+</div>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-namahin.com-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://namahin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@Mahin__360-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Mahin_360)
-[![Email](https://img.shields.io/badge/Email-info%40pivew.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pivew.com)
+<table>
+<tr>
+<td width="55%" valign="top">
 
-</div>
+### 👤 About Me
+
+Founder of **Pivew** — building privacy-first tech, AI products, and Brain-Computer Interface (BCI) systems. Web developer since 2018, currently exploring AI, cybersecurity, WebRTC & decentralized systems.
+
+```js
+console.log("Building technology that creates impact.");
+```
+
+📍 Dhaka, Bangladesh &nbsp;·&nbsp; 💼 Founder @ Pivew &nbsp;·&nbsp; 📫 info@pivew.com
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=namahin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### About Me
+### 🛠️ Tech Stack
 
-- 🚀 Founder of **Pivew**
-- 🧠 Building **Brain-Computer Interface (BCI)** systems
-- 🔐 Building **privacy-focused messaging platforms**
-- 💻 Web developer since 2018
-- 🌱 Currently exploring: **AI · Cybersecurity · WebRTC · Decentralized Systems**
-- 📍 Dhaka, Bangladesh
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php,mysql,postgres,redis&theme=dark" />
+
+**Tools & Others**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,linux&theme=dark" />
 
 ---
 
-### Tech Stack
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🧩 Pivew Ecosystem**
+Core products & platform powering Pivew.
+
+</td>
+<td width="50%">
+
+**🔒 Torzor**
+Secure, privacy-first messaging platform.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🧠 Brain Signal Communication**
+BCI-based communication system.
+
+</td>
+<td width="50%">
+
+**🤖 AI Future Products**
+Applied AI experiments & tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namahin&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namahin&theme=dark&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" width="100%"/>
+
+---
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,php,mysql,html,css,git" />
-</div>
 
----
-
-### Current Projects
-
-| Project | Description |
-| :-- | :-- |
-| 🧩 **Pivew Ecosystem** | Core products & platform |
-| 🔒 **Torzor** | Secure, privacy-first messaging |
-| 🧠 **Brain Signal Communication** | BCI-based communication system |
-| 🤖 **AI Future Products** | Applied AI experiments & tools |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=namahin&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namahin&layout=compact&theme=default&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namahin&theme=default&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=namahin&style=for-the-badge&color=2E9EF7&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=namahin&style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=Profile+Views" />
 
 <br/><br/>
 
-<sub><i>"Building technology that creates impact."</i></sub>
+<i>"Let's build something amazing together 🚀"</i>
 
 </div>
